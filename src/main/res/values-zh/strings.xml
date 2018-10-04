@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application name -->
+    <string name="app_name">API演示</string>
+    <!-- Title on the main page -->
+    <string name="main_title">API演示</string>
+
+    <!-- Main screen -->
+    <string name="found_label">发现：</string>
+    <!-- Main screen -->
+    <string name="time_label">时间：</string>
+    <!-- Main screen -->
+    <string name="actions_button">行动</string>
+
+    <!-- Footer button: configure -->
+    <string name="FooterConfigure">配置</string>
+
+    <!-- Footer button: info -->
+    <string name="FooterInfo">信息</string>
+
+    <!-- Footer button: pause -->
+    <string name="FooterPause">暂停</string>
+
+    <!-- Footer button: resume -->
+    <string name="FooterResume">继续</string>
+
+    <!-- Footer button: start -->
+    <string name="FooterStart">开始</string>
+
+    <!-- Footer button: stop -->
+    <string name="FooterStop">停止</string>
+
+</resources>

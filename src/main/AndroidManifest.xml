@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.ugrokit.ApiDemo" >
+
+
+    <application
+        android:name=".ApiDemoApp"
+        android:allowBackup="false"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        tools:ignore="GoogleAppIndexingWarning"
+        tools:targetApi="m"
+        android:extractNativeLibs="false">
+        <activity
+            android:name=".ApiDemoActivity"
+            android:configChanges="orientation|screenSize|keyboard"
+            android:launchMode="singleTask"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+                android:name=".FindOneTagActivity"
+                android:configChanges="orientation|screenSize|keyboard"
+                android:label="Find One Tag" />
+        <activity
+                android:name=".SecondPageActivity"
+                android:configChanges="orientation|screenSize|keyboard" />
+    </application>
+
+</manifest>

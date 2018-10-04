@@ -1,0 +1,73 @@
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.0'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+    gradle.projectsEvaluated {
+        tasks.withType(JavaCompile) {
+            options.compilerArgs << "-Xlint:unchecked"
+        }
+    }
+}
+apply plugin: 'com.android.application'
+
+android {
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    compileSdkVersion 27
+
+    defaultConfig {
+        applicationId "com.ugrokit.ApiDemo"
+        //noinspection MinSdkTooLow
+        minSdkVersion 11
+        targetSdkVersion 27
+
+        // target the same devices as the SDK
+        ndk {
+            abiFilters "armeabi-v7a", "x86", "arm64-v8a"
+        }
+
+        versionName "3.8"
+        versionCode 11
+        /*
+          3.1 code  4: 03/29/2018 SDK 1.16.6 - latest PD67
+          3.2 code  5: 04/02/2018 SDK 1.16.7 (in progress) - USB fixes
+          3.3 code  6: 04/03/2018 SDK 1.16.7 (in progress) - Don't power on/off PD67
+          3.4 code  7: 04/16/2018 SDK 1.16.7 (in progress) - USB race condition fix
+          3.5 code  8: 04/27/2018 SDK 1.16.7 (in progress) - RFID power on/off
+          3.6 code  9: 05/18/2018 SDK 1.16.8 (in progress) - custom command
+          3.7 code 10: 05/24/2018 SDK 1.16.8 (in progress) - turn back on HF/barcode
+          3.8 code 11: 05/24/2018 SDK 1.16.8 (in progress) - turn back on HF/barcode #2
+         */
+    }
+
+
+    buildTypes {
+        debug {
+            debuggable true
+            jniDebuggable true
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    lintOptions {
+        tasks.lint.enabled = false
+    }
+}
+
+dependencies { implementation(name:"UGrokItApi-release", ext:"aar") }
+repositories { flatDir { dirs "libs" }  }

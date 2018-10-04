@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application name -->
+    <string name="app_name">API Demo</string>
+    <!-- Title on the main page -->
+    <string name="main_title">API Demo</string>
+
+    <!-- Main screen -->
+    <string name="found_label">trovato:</string>
+    <!-- Main screen -->
+    <string name="time_label">tempo:</string>
+    <!-- Main screen -->
+    <string name="actions_button">azioni</string>
+
+    <!-- Footer button: configure -->
+    <string name="FooterConfigure">configurare</string>
+
+    <!-- Footer button: info -->
+    <string name="FooterInfo">informazioni</string>
+
+    <!-- Footer button: pause -->
+    <string name="FooterPause">pausa</string>
+
+    <!-- Footer button: resume -->
+    <string name="FooterResume">ricominciare</string>
+
+    <!-- Footer button: start -->
+    <string name="FooterStart">inizio</string>
+
+    <!-- Footer button: stop -->
+    <string name="FooterStop">stop</string>
+
+</resources>

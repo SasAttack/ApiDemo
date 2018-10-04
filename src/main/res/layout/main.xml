@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:background="#ffffff"
+              tools:ignore="Overdraw">
+
+    <!-- Title bar -->
+    <com.ugrokit.api.UgiTitleView style="@style/UgiTitleView" />
+
+    <!--  Top line: # found., time, actions button -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp">
+
+        <View style="@style/UgiHorizontalSpacerView"/>
+
+        <TextView style="@style/UgiTextView"
+                  android:text="@string/found_label"/>
+
+        <TextView android:id="@+id/count_value" style="@style/UgiTextView"
+                  android:textSize="28sp"
+                  android:text="0"
+                  android:layout_marginLeft="5dp"
+                  tools:ignore="HardcodedText,RtlHardcoded"/>
+
+        <View style="@style/UgiHorizontalSpacerView"/>
+
+        <TextView style="@style/UgiTextView"
+                  android:text="@string/time_label"/>
+
+        <TextView android:id="@+id/time_value" style="@style/UgiTextView"
+                  android:layout_marginLeft="5dp"
+                  android:text="00:00"
+                  android:textSize="28sp"
+                  tools:ignore="HardcodedText,RtlHardcoded"/>
+
+        <View style="@style/UgiHorizontalSpacerView"/>
+
+        <Button android:id="@+id/actions_button" style="@style/UgiButton"
+                android:layout_height="match_parent"
+                android:text="@string/actions_button"
+                android:onClick="doActions"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#cccccc" />
+
+    <!--  List of tags -->
+    <ListView android:id="@+id/tagList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:choiceMode="singleChoice"
+        android:listSelector="@android:color/darker_gray"
+        android:divider="@drawable/list_divider"
+        android:dividerHeight="1px" />
+
+    <!--  Footer -->
+    <com.ugrokit.api.UgiFooterView style="@style/UgiFooterView" />
+
+</LinearLayout>

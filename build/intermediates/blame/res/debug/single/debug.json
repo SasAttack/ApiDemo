@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\anim_ugi_slide_exit_left.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\anim\\ugi_slide_exit_left.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_scanning_3.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_scanning_3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery0_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery0_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_pd67_white_not_connected.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_pd67_white_not_connected.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_ugi_dialog_menu_button.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\layout\\ugi_dialog_menu_button.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_searching_anim_3.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_searching_anim_3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\seekbar.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery1_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery1_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\anim_ugi_dialog_high_tension_overshoot_interpolator.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\anim\\ugi_dialog_high_tension_overshoot_interpolator.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_ugi_dialog.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\layout\\ugi_dialog.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_charging_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_charging_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery2_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery2_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_second_page.xml.flat",
+        "source": "D:\\GitHub\\UHF_App\\ApiDemo\\src\\main\\res\\layout\\activity_second_page.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_busy_1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_busy_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery1_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery1_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_connecting_1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_connecting_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_close.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_close.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_scanning_4.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_scanning_4.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_white_battery_connected.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_white_battery_connected.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\anim_ugi_slide_enter_left.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\anim\\ugi_slide_enter_left.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_scanning_2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_scanning_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_btn_back.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_btn_back.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\anim_ugi_slide_exit_right.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\anim\\ugi_slide_exit_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery0_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery0_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_searching.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_searching.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_pd67_white_connected.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_pd67_white_connected.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_charging.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_charging.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_searching_anim_1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_searching_anim_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_fully_charged_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_fully_charged_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery3_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery3_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_close_pressed.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_close_pressed.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery0_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery0_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_ugi_dialog_single_list_item.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\layout\\ugi_dialog_single_list_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery3_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery3_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_battery_scanning.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_battery_scanning.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_scanning_1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_scanning_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_ugi_tltle_view.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\layout\\ugi_tltle_view.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_busy_2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_busy_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\GitHub\\UHF_App\\ApiDemo\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\anim_ugi_slide_enter_right.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\anim\\ugi_slide_enter_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_pd67_not_connected.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_pd67_not_connected.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_charging_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_charging_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_close_button.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_close_button.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery3.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_white_battery_scanning.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_white_battery_scanning.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_second_page_right.png.flat",
+        "source": "D:\\GitHub\\UHF_App\\ApiDemo\\src\\main\\res\\drawable-xhdpi\\btn_second_page_right.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery2_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery2_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_scanning_4.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_scanning_4.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery4_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery4_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery4_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery4_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_scanning_3.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_scanning_3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_connected_4.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_connected_4.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery2_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery2_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_fully_charged.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_fully_charged.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_radio_unchecked.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_radio_unchecked.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery1_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery1_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_connecting_2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_connecting_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_busy_4.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_busy_4.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery0.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery0.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery4_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery4_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery1_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery1_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_battery_connecting.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_battery_connecting.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_connected_3.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_connected_3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_not_connected.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_not_connected.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_busy_1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_busy_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\anim_ugi_dialog_bounce_enter.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\anim\\ugi_dialog_bounce_enter.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_fully_charged_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_fully_charged_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_white_battery_busy.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_white_battery_busy.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery2_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery2_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_connected_1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_connected_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_busy_4.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_busy_4.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_charging_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_charging_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_connected_2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_connected_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery4.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery4.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_checkbox_check.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_checkbox_check.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery4_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery4_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_charging_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_charging_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_connected_2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_connected_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_busy_2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_busy_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_charging.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_charging.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_connecting_1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_connecting_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_radio_checked.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_radio_checked.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_scanning_1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_scanning_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\raw_android_devices.json.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\raw\\android_devices.json"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\GitHub\\UHF_App\\ApiDemo\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery3_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery3_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_ugi_footer.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\layout\\ugi_footer.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_battery_busy.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_battery_busy.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_pd67_connected.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_pd67_connected.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_connected_3.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_connected_3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\GitHub\\UHF_App\\ApiDemo\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_fully_charged_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_fully_charged_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_busy_3.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_busy_3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_connecting_2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_connecting_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_not_connected.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_not_connected.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "D:\\GitHub\\UHF_App\\ApiDemo\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_fully_charged_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_fully_charged_warm.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_scanning_2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_scanning_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_one_tag.xml.flat",
+        "source": "D:\\GitHub\\UHF_App\\ApiDemo\\src\\main\\res\\layout\\activity_find_one_tag.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_checkbox_no_check.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_checkbox_no_check.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery4.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery4.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_connected_1.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_connected_1.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_white_battery_connecting.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_white_battery_connecting.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_spinner_background.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_spinner_background.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_list_divider.xml.flat",
+        "source": "D:\\GitHub\\UHF_App\\ApiDemo\\src\\main\\res\\drawable\\list_divider.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery0.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery0.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_ugi_spinner_item.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\layout\\ugi_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_connected_4.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_connected_4.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable_ugi_battery_connected.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable\\ugi_battery_connected.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\layout_ugi_tag_list_item.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\layout\\ugi_tag_list_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\anim_ugi_dialog_quick_fade.xml.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\anim\\ugi_dialog_quick_fade.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery_fully_charged.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery_fully_charged.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_battery_busy_3.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_battery_busy_3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery3.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery3.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_searching_anim_2.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_searching_anim_2.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery0_hot.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery0_hot.png"
+    },
+    {
+        "merged": "D:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ugi_white_battery3_warm.png.flat",
+        "source": "C:\\Users\\Saswa\\.gradle\\caches\\transforms-1\\files-1.1\\UGrokItApi-release.aar\\2231e49f397ef7139e6cfcfa75c73a63\\res\\drawable-xhdpi-v4\\ugi_white_battery3_warm.png"
+    }
+]

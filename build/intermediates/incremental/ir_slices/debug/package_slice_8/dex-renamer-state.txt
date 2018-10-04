@@ -1,0 +1,4 @@
+#Wed Oct 03 14:43:37 EDT 2018
+base.0=D\:\\GitHub\\UHF_App\\ApiDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

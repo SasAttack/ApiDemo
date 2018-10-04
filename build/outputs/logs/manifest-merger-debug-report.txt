@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:4:11-40
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:7:5-32:19
+MERGED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:15:5-17:19
+MERGED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:15:5-17:19
+	android:extractNativeLibs
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:14:9-42
+	android:label
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:12:9-48
+	tools:targetApi
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:13:9-28
+	android:icon
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:10:9-38
+	android:allowBackup
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:9:9-36
+	android:name
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:8:9-35
+activity#com.ugrokit.ApiDemo.ApiDemoActivity
+ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:19:13-45
+	android:launchMode
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:18:13-44
+	android:configChanges
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:17:13-68
+	android:name
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:16:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:22:27-74
+activity#com.ugrokit.ApiDemo.FindOneTagActivity
+ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:25:9-28:48
+	android:label
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:28:17-45
+	android:configChanges
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:27:17-72
+	android:name
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:26:17-51
+activity#com.ugrokit.ApiDemo.SecondPageActivity
+ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:29:9-31:75
+	android:configChanges
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:31:17-72
+	android:name
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml:30:17-51
+uses-sdk
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+MERGED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:7:5-9:41
+MERGED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\UHF_App\ApiDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.INTERNET
+ADDED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:13:22-64
+activity#com.ugrokit.api.UgiMarshmallowPermissionActivity
+ADDED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:16:9-85
+	android:name
+		ADDED from [:UGrokItApi-release:] C:\Users\Saswa\.gradle\caches\transforms-1\files-1.1\UGrokItApi-release.aar\2231e49f397ef7139e6cfcfa75c73a63\AndroidManifest.xml:16:19-82
